@@ -8,3 +8,5 @@ Set three variables in environment on each new machine
 When starting the ngrok tunnel:
 
 `ngrok http -host-header="localhost:5000" 5000`
+
+Also log into ngrok account (through github account) and run the authtoken command to get unlimited access time
