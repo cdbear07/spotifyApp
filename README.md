@@ -1,4 +1,4 @@
-##Config##
+# Config
 
 Set three variables in environment on each new machine
 1. SPOTIPY\_CLIENT\_ID
